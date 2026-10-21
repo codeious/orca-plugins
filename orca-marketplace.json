@@ -1,0 +1,16 @@
+{
+  "name": "Codeious plugins",
+  "owner": "codeious",
+  "plugins": [
+    {
+      "id": "codeious.boat-sandbox",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/codeious/orca-boat-sandbox.git",
+        "ref": "v1.0.0"
+      },
+      "description": "Runs an Orca workspace in a fresh boat.dev sandbox. Works with any Boat.dev account and any GitHub repo. macOS and Linux only.",
+      "categories": ["vm-recipes"]
+    }
+  ]
+}
