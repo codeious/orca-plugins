@@ -1,0 +1,19 @@
+orca-marketplace.json
+  s_b30d531edb1211::t_0a05969c2b961e 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d361019ddf1f70f400440d770c6b09bf7f594464",
+  "prompts": {},
+  "sessions": {
+    "s_b30d531edb1211": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "331415b0-7fa4-4594-b383-e652f0395fc8",
+        "model": "custom:claude-sonnet-5-5"
+      },
+      "human_author": "noter <patryk@codeious.io>"
+    }
+  }
+}
