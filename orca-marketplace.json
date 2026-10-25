@@ -7,7 +7,7 @@
       "source": {
         "kind": "git",
         "url": "https://github.com/codeious/orca-boat-sandbox.git",
-        "ref": "v1.0.2"
+        "ref": "v1.0.3"
       },
       "description": "Runs an Orca workspace in a fresh boat.dev sandbox. Works with any Boat.dev account and any GitHub repo. macOS and Linux only.",
       "categories": ["vm-recipes"]
