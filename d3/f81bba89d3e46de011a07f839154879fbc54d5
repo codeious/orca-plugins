@@ -1,0 +1,14 @@
+orca-marketplace.json
+  h_476903bd8a47d9 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d3f81bba89d3e46de011a07f839154879fbc54d5",
+  "prompts": {},
+  "humans": {
+    "h_476903bd8a47d9": {
+      "author": "noter <patryk@codeious.io>"
+    }
+  }
+}
